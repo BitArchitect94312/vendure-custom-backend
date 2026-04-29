@@ -5,20 +5,12 @@
 </p>
 
 <h1 align="center">
-  Vendure Examples Monorepo
+  Vendure Monorepo
 </h1>
 <p align="center">
   A production-ready monorepo workspace with shared Vendure configurations, PostgreSQL, Redis, and streamlined example creation.
 </p>
 
-<p align="center">
-  <a href="https://vendure.io/community">
-    <img src="https://img.shields.io/badge/join-our%20discord-7289DA.svg" alt="Join our Discord" />
-  </a>
-  <a href="https://twitter.com/intent/follow?screen_name=vendure_io">
-    <img src="https://img.shields.io/twitter/follow/vendure_io" alt="Follow @vendure_io" />
-  </a>
-</p>
 
 ## 🚀 Quick Start
 
